@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React by dazzling
+          Learn React by dazzling anchal.
         </a>
       </header>
     </div>
